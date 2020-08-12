@@ -1,3 +1,5 @@
-# Strapi application
+# Banio-backend
 
-A quick description of your strapi application
+This is the source code for the backend of Banio-shop
+
+Banio-shop is an online shop exclusive only on items for bathroom.
